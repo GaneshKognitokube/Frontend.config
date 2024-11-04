@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Home",
+    "to": "#!",
+    "subMenu": [
+      {
+        "title": "Home IT Sevices",
+        "to": "/"
+      },
+      {
+        "title": "Home Business Consulting",
+        "to": "/home/homepage2"
+      },
+      {
+        "title": "Home IoT Services",
+        "to": "/home/homepage3"
+      },
+      {
+        "title": "Home Digital Agency",
+        "to": "/home/homepage4"
+      },
+      {
+        "title": "Home Finance",
+        "to": "/home/homepage5"
+      },
+      {
+        "title": "Digital SEO Marketing",
+        "to": "/home/homepage6"
+      },
+      {
+        "title": "Home Helpdesk",
+        "to": "/home/homepage7"
+      }
+    ]
+  },
+  {
+    "title": "Our Services",
+    "to": "#!",
+    "subMenu": [
+      {
+        "title": "IT Consulting",
+        "to": "/services/managed-it-services",
+        "icon": "icon-phone-sync"
+      },
+      {
+        "title": "AI & ML",
+        "to": "/services/leadership-development2",
+        "icon": "icon-user-chart"
+      },
+      {
+        "title": "Cloud Services",
+        "to": "/services/it-consulting",
+        "icon": "icon-user-sync"
+      },
+      {
+        "title": "Mobile Development",
+        "to": "/services/Mobile Development",
+        "icon": "icon-device-cloud"
+      },
+      {
+        "title": "Website Development",
+        "to": "/services/Website Development",
+        "icon": "icon-cloud-dots"
+      },
+      {
+        "title": "In-Bound",
+        "to": "/services/In-Bound",
+        "icon": "/images/services/Inbound.svg"
+      },
+      {
+        "title": "Out-Bound",
+        "to": "/services/Out-Bound",
+        "icon": "/images/services/Outbound.svg"
+      }
+    ]
+  },
+
+  {
+    "title": "About Us",
+    "to": "/aboutus",
+    "subMenu": [
+      
+    ]
+  },
+
+  {
+    "title": "Contact",
+    "to": "/pages/contact-us",
+    "subMenu": [
+      
+    ]
+  }
+  
+]
+
